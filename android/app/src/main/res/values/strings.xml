@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">فريق الصرف الصحي</string>
+    <string name="title_activity_main">فريق الصرف الصحي</string>
+    <string name="package_name">ps.cmwu.sanitationteam</string>
+    <string name="custom_url_scheme">ps.cmwu.sanitationteam</string>
+</resources>

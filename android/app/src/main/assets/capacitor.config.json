@@ -1,0 +1,9 @@
+{
+	"appId": "ps.cmwu.sanitationteam",
+	"appName": "فريق الصرف الصحي",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false
+	},
+	"backgroundColor": "#0B3350"
+}
